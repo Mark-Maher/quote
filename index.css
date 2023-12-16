@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Caveat", cursive;
+}
+
+body {
+  height: 100vh;
+  background-image: url(360_F_195721857_qwm4QSETlBFtCSKWW7kbNt3O5DRgAanr.jpg);
+  background-position: center center;
+  background-size: cover;
+}
